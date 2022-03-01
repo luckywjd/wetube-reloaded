@@ -4,13 +4,13 @@
   "description": "The best way to watch videos.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "win": "테스트 중입니다."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luckywjd/wetube-reloaded.git"
   },
-  "author": "jungyungwan",
+  "author": "jungyungwan11",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luckywjd/wetube-reloaded/issues"
