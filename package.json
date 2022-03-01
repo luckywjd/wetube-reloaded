@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "win": "테스트 중입니다."
+
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luckywjd/wetube-reloaded.git"
   },
-  "author": "jungyungwan11",
+  "author": "jungyungwan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luckywjd/wetube-reloaded/issues"
