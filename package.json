@@ -4,7 +4,7 @@
   "description": "The best way to watch videos.",
   "main": "index.js",
   "scripts": {
-    "win": "테스트 중입니다."
+    "win": "테스트 중입니다.1"
 
   },
   "repository": {
